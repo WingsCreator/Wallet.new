@@ -1,0 +1,54 @@
+body
+{
+    background-color: #3fb0ef !important;
+}
+.wallet-container
+{
+    background: linear-
+    gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(image.jpg);
+    width: 320px;
+    color: #fff;
+    font-size: 15px;
+    padding: 20px 20px 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+.amount-box
+{
+    margin-top: 200px;
+}
+.btn-group .btn
+{
+    margin: 12px;
+    border-radius: 10px !important;
+    font-size: 22px;
+}
+.btn-txt .btn
+{
+    margin: 12px;
+    border-radius: 10px !important;
+    font-size: 22px;
+}
+.congratulations-container
+{
+    padding: 10px 10px 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+.Accountdetails-container
+{
+    font-size: 15px;
+    padding: 20px 20px 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+.form-group
+{
+    text-align: left;
+}
